@@ -10,6 +10,6 @@
 
 ## Interests
 **reverse engineering** — figuring out how it was built  
-**tinkering** — breaking things to understand them    
-**exploring** — new tools, ideas, rabbit holes
-**ricing** — tweaking dots until perfect
+**tinkering** — breaking things to understand them  
+**exploring** — new tools, ideas, rabbit holes  
+**ricing** — tweaking dots until they're perfect
